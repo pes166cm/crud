@@ -16,7 +16,7 @@
 	<ul>
 		<li><a href="/courseList">기록목록</a></li>
 		<li><a href="/courseInsert">기록하기</a></li>
-		<li><a href="/index">홈으로</a></li>
+		<li><a href="/mainpage">홈으로</a></li>
 	</ul>
 </nav>
 </body>

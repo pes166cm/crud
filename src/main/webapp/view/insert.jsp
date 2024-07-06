@@ -26,7 +26,7 @@
 				<td><input type="text" name="content" id="content"></td>
 			</tr>
 			<tr>
-				<td>날짜</td>
+				 <td>날짜</td>
 				<td><input type="text" name="to_day" id="to_day"></td>
 			</tr>
 			<tr>
@@ -45,7 +45,7 @@
 	</form>
 </div>
 </section>
-<<script>
+<script>
 		function checkForm() {
 			if(document.frm.title.value == ""){
 				alert('제목을 입력해주세요.');
